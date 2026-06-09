@@ -1,8 +1,0 @@
-{
-	"item": {
-		"alienHead": {
-			"description": "Decrease your <b>skill cooldowns</c> by <b>15%</c> <c_stack>(+15% per stack)</c>",
-			"priority": "<g>Priority/Biological</c>"
-		}
-	}
-}

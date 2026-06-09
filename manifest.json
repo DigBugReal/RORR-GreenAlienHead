@@ -1,11 +1,12 @@
 {
 	"name": "GreenAlienHead",
-	"version_number": "1.0.0",
+	"version_number": "0.2.0",
 	"author": "Xaidee",
 	"website_url": "https://github.com/Xaidee/RORR-GreenAlienHead",
 	"description": "Makes Alien Head reduce cooldowns by less per stack and also turns it into a Green item.",
 	"dependencies": [
-		"ReturnOfModding-ReturnOfModding-1.1.3",
-		"RoRRModdingToolkit-RoRR_Modding_Toolkit-1.2.25"
+		"ReturnsAPI-ReturnsAPI-0.1.58",
+		"ReturnOfModding-ReturnOfModding-1.1.30",
+		"LuaENVY-ENVY-1.2.0"
 	]
 }
